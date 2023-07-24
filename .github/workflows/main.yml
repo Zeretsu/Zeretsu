@@ -38,4 +38,4 @@ jobs:
           build_dir: dist
         env:
           Username: Zeretsu
-          Password: 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
+          Password: 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
