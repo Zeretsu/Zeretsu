@@ -20,4 +20,4 @@
 
   env:
     # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    GITHUB_TOKEN: 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
