@@ -37,6 +37,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          Username: Zeretsu
-          Password: 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
-          GITHUB_TOKEN: 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
+          Username for 'https://github.com': Zeretsu
+          Password for 'https://myusername@github.com': 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
