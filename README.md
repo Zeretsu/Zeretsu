@@ -9,3 +9,4 @@ Let's collaborate, learn, and grow together in this dynamic coding universe. �
 Zeretsu/Zeretsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![github-user-contribution](https://github.com/Zeretsu/Zeretsu/assets/131717260/46058a1f-3b12-4367-9cd1-2e652eed1677)
