@@ -6,3 +6,4 @@ Zeretsu/Zeretsu is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![github-contribution-grid-snake-dark](https://github.com/Zeretsu/Zeretsu/assets/131717260/b23e6fc9-d393-40b3-9667-2519d961a499)
+![j4p4n_Old_Japan_-_Samurai](https://github.com/Zeretsu/Zeretsu/assets/131717260/12cfbd93-d39d-450d-8045-a204e32ece21)
