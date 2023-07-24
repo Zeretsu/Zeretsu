@@ -37,4 +37,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          Username: Zeretsu
+          Password: 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
