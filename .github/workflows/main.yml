@@ -38,4 +38,4 @@ jobs:
           build_dir: dist
         env:
           Username: Zeretsu
-          GITHUB_TOKEN: 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
+          Password: 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
