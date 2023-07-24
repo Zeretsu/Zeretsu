@@ -1,6 +1,6 @@
 👋 Hello there, and welcome to my GitHub World! 🌟
 
-I'm Zeretsu, an inspiring coder exploring the realms of C++ and JavaScript. 💻 I believe in the power of technology to create incredible things. 🚀
+I'm Zeretsu, an inspiring coder exploring the realms of C++ and JavaScript. 💻🚀
 <!---
 Zeretsu/Zeretsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
