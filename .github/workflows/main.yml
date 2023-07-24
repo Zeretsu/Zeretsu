@@ -39,3 +39,5 @@ jobs:
         env:
           Username for 'https://github.com': Zeretsu
           Password for 'https://myusername@github.com': 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
+env:
+    GITHUB_TOKEN: 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
